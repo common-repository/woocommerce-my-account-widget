@@ -1,0 +1,184 @@
+# Translation of Plugins - WooCommerce My Account Widget - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WooCommerce My Account Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-01 13:52:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WooCommerce My Account Widget - Stable (latest release)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/woocommerce-my-account-widget/"
+msgstr "http://wordpress.org/extend/plugins/woocommerce-my-account-widget/"
+
+#: woocommerce-my-account-widget.php:16
+msgid "WooCommerce My Account Widget shows order & account data"
+msgstr "WooCommerce My Account Widget отображает заказы и данные учетной записи"
+
+#. #-#-#-#-#  woocommerce-my-account-widget-code.pot (WooCommerce My Account
+#. Widget 0.6.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: woocommerce-my-account-widget.php:17
+msgid "WooCommerce My Account Widget"
+msgstr "WooCommerce My Account виджет"
+
+#: woocommerce-my-account-widget.php:32
+msgid "Logged out title:"
+msgstr "Заголовок для гостей:"
+
+#: woocommerce-my-account-widget.php:33 woocommerce-my-account-widget.php:109
+msgid "Customer Login"
+msgstr "Вход для покупателей"
+
+#: woocommerce-my-account-widget.php:36 woocommerce-my-account-widget.php:111
+msgid "Welcome %s"
+msgstr "Добро пожаловать, %s"
+
+#: woocommerce-my-account-widget.php:39
+msgid "Show link to shopping cart"
+msgstr "Отображать ссылку на корзину"
+
+#: woocommerce-my-account-widget.php:41
+msgid "Show number of items in cart"
+msgstr "Отображать количество товаров в корзине"
+
+#: woocommerce-my-account-widget.php:57
+msgid "Redirect to page after login:"
+msgstr "Перенаправлять после входа в систему:"
+
+#: woocommerce-my-account-widget.php:60
+msgid "Select page"
+msgstr "Выберите страницу"
+
+#: woocommerce-my-account-widget.php:72
+msgid "Other options"
+msgstr "Другие опции"
+
+#: woocommerce-my-account-widget.php:74
+msgid "Login with email address"
+msgstr "Вход по e-mail пользователя."
+
+#: woocommerce-my-account-widget.php:139 woocommerce-my-account-widget.php:224
+#: woocommerce-my-account-widget.php:304
+msgid "View your shopping cart"
+msgstr "Моя корзина"
+
+#: woocommerce-my-account-widget.php:233 woocommerce-my-account-widget.php:242
+msgid "Upload files"
+msgstr "Загрузить файлы"
+
+#: woocommerce-my-account-widget.php:250
+msgid "Pay orders"
+msgstr "Оплатить заказ"
+
+#: woocommerce-my-account-widget.php:252
+msgid "payment required"
+msgid_plural "payments required"
+msgstr[0] "заказ требует оплаты"
+msgstr[1] "заказа требуют оплаты"
+msgstr[2] "заказов требуют оплаты"
+
+#: woocommerce-my-account-widget.php:258
+msgid "View uncompleted orders"
+msgstr "Показать незавершенные заказы"
+
+#: woocommerce-my-account-widget.php:265
+msgid "My Account"
+msgstr "Профиль"
+
+#: woocommerce-my-account-widget.php:274
+msgid "Login failed, please try again"
+msgstr "Ошибка, попробуйте еще раз"
+
+#: woocommerce-my-account-widget.php:281
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce-my-account-widget.php:282
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce-my-account-widget.php:283
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: woocommerce-my-account-widget.php:298
+msgid "Lost password?"
+msgstr "Забыли пароль?"
+
+#: woocommerce-my-account-widget.php:301
+msgid "Register"
+msgstr "Регистрация"
+
+#. Author of the plugin/theme
+msgid "Bart Pluijms"
+msgstr "Bart Pluijms"
+
+#. Author URI of the plugin/theme
+msgid "http://www.geev.nl/"
+msgstr "http://www.geev.nl/"
+
+#: woocommerce-my-account-widget.php:235 woocommerce-my-account-widget.php:244
+msgid "file to upload"
+msgid_plural "files to upload"
+msgstr[0] " файл для загрузки"
+msgstr[1] " файла для загрузки"
+msgstr[2] "файлов для загрузки"
+
+#: woocommerce-my-account-widget.php:281
+msgid "Username or Email"
+msgstr "Имя пользователя или e-mail"
+
+#: woocommerce-my-account-widget.php:284
+msgid "Log In"
+msgstr "Войти"
+
+#: woocommerce-my-account-widget.php:266
+msgid "Log out"
+msgstr "Выйти"
+
+#: woocommerce-my-account-widget.php:260
+msgid "order pending"
+msgid_plural "orders pending"
+msgstr[0] "заказ ожидается"
+msgstr[1] "заказа ожидается"
+msgstr[2] "заказов ожидается"
+
+#. Description of the plugin/theme
+msgid "WooCommerce My Account Widget shows order & account data."
+msgstr "WooCommerce My Account Widget отображает заказы и данные учетной записи."
+
+#: woocommerce-my-account-widget.php:35
+msgid "Logged in title:"
+msgstr "Заголовок для авторизованных покупателей:"
+
+#: woocommerce-my-account-widget.php:45 woocommerce-my-account-widget.php:48
+msgid "Show number of uploads left"
+msgstr "Отображать количество оставшихся загрузок"
+
+#: woocommerce-my-account-widget.php:51
+msgid "Show number of unpaid orders"
+msgstr "Отображать количество неоплаченных заказов"
+
+#: woocommerce-my-account-widget.php:53
+msgid "Show number of uncompleted orders"
+msgstr "Отображать количество незаконченных заказов"
+
+#: woocommerce-my-account-widget.php:55
+msgid "Show logout link"
+msgstr "Отображать ссылку выхода"
+
+#: woocommerce-my-account-widget.php:375
+msgid "Please fill in your username and password"
+msgstr "Пожалуйста, введите имя пользователя и пароль"
+
+#: woocommerce-my-account-widget.php:226
+msgid "product in your shopping cart"
+msgid_plural "products in your shopping cart"
+msgstr[0] "товар в вашей корзине"
+msgstr[1] "товара в вашей корзине"
+msgstr[2] "товаров в вашей корзине"
